@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Preview
+In the project [Rumo ao Júnior - 10](https://pedro.pingback.com/p/rumo-ao-junior-10-box-model-importancia-de-ter-uma-base-solida-e-exercitando) was proposed that to copy the calculator's style training CSS skills and this was the result:
+![](calculator-drazyn.png)
+
+- [X] Creating calculator's style
+- [ ] Calculator functions
 
 ## Available Scripts
 
