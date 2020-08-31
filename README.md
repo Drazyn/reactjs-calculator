@@ -1,5 +1,6 @@
 # Project Preview
-In the project [Rumo ao Júnior - 10](https://pedro.pingback.com/p/rumo-ao-junior-10-box-model-importancia-de-ter-uma-base-solida-e-exercitando) was proposed that to copy the calculator's style training CSS skills and this was the result:
+In the project [Rumo ao Júnior - 10](https://pedro.pingback.com/p/rumo-ao-junior-10-box-model-importancia-de-ter-uma-base-solida-e-exercitando) was proposed that to copy the calculator's style for improve CSS skills. The result of the activity:
+
 ![](calculator-drazyn.png)
 
 - [X] Creating calculator's style
